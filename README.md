@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 change local 
-changed no-fast-forward branch
+changed main conflict  branch
